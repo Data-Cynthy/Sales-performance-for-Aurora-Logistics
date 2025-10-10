@@ -10,12 +10,8 @@ The dashboard highlights product category trends, regional distribution of sales
 
 While growth is strong overall, profit margins and regional concentration suggest strategic areas for improvement.
 
----
-
 ## Dashboard Preview
 ![Sales Dashboard Preview](sales vs profit dashboard.png)
-
----
 
 ## Key Insights
 
@@ -26,32 +22,30 @@ While growth is strong overall, profit margins and regional concentration sugges
 
 ### Regional Insights
 - California dominated sales with `457,687.6`, well ahead of New York and other states.
-- A few key states contributed the majority of revenue — signaling geographic concentration.
+- A few key states contributed the majority of revenue, signaling geographic concentration.
 
 ### Time-Based Trends
 - Q4 showed the strongest performance, suggesting seasonal demand.
 - Average prices varied across quarters, pointing to pricing opportunities.
 
----
 
 ## Recommendations
 
-1. **Double Down on High Performers**  
-   - Increase investment, promotions, and stock levels in Phones, Chairs, Storage, and Appliances to sustain growth.
+1. **Investigate Regional Performance**  
+   - Declines in Lafayette and Detroit, along with Houston’s stagnation, signal areas for operational review and targeted turnaround efforts.
+   - Seattle and Columbus show strong momentum and could be prioritized as growth hubs in the overall market expansion strategy.
 
 2. **Diversify Regional Sales**  
-   - Expand marketing and sales initiatives into underperforming states to reduce reliance on California.
+   - Heavy reliance on California increases business vulnerability and limits growth potential.
+   - Expand marketing and sales initiatives into underperforming states to build a more balanced and resilient revenue base.
 
 3. **Optimize Profit Margins**  
-   - Review pricing strategies, bundle offers, and cost structure to align profit growth with sales growth.
+   - Profit is growing at a much slower pace than sales. Review pricing, bundles, and costs to keep profit growth aligned with sales growth.
 
 4. **Leverage Seasonality**  
-   - Plan campaigns and inventory around Q4 to maximize revenue during peak periods.
+   - Q4 represents a key revenue opportunity with higher seasonal demand.
+   - Proactively align campaigns and inventory planning to fully capture peak-period sales.
 
-5. **Address Underperforming Categories**  
-   - Investigate why Machines and some regions underperformed and adjust strategies accordingly.
-
----
 
 ## Tools & Skills Demonstrated
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Conditional Formatting)  
@@ -59,11 +53,7 @@ While growth is strong overall, profit margins and regional concentration sugges
 - Trend & Category Analysis  
 - Dashboard Design & Visualization  
 
----
-
 ## Key Learnings
 - Building insight-driven dashboards even without predefined KPIs.  
 - Identifying patterns and drivers using simple Excel tools.  
 - Turning raw sales data into a clear, visual business story.
-
----

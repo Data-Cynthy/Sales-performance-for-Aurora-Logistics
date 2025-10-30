@@ -11,7 +11,7 @@ The dashboard highlights product category trends, regional distribution of sales
 While growth is strong overall, profit margins and regional concentration suggest strategic areas for improvement.
 
 ## Dashboard Preview
-![Sales Dashboard Preview](sales vs profit dashboard.png)
+![Sales Dashboard Preview](salesVSprofit_dashboard.png)
 
 ## Key Insights
 
